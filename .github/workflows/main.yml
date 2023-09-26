@@ -19,8 +19,8 @@ jobs:
       - run: echo $PWD
       - run: ls -al ./
       - run: ls -al ../
-      - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=Overview.pdf README.md
-      - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=LetsMakeNametags.pdf makeNametags.md
+      - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=Overview-${{  github.ref_name }}.pdf README.md
+      - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=LetsMakeNametags-${{  github.ref_name }}.pdf makeNametags.md
       - name: release
         uses: actions/create-release@v1
         id: create_release
@@ -38,8 +38,8 @@ jobs:
               GITHUB_TOKEN: ${{ github.token }}
         with:
               upload_url: ${{ steps.create_release.outputs.upload_url }}
-              asset_path: Overview.pdf
-              asset_name: Overview.pdf
+              asset_path: Overview-${{  github.ref_name }}.pdf
+              asset_name: Overview-${{  github.ref_name }}.pdf
               asset_content_type: application/binary
       - name: Upload PDF2
         uses: actions/upload-release-asset@v1
@@ -47,6 +47,6 @@ jobs:
               GITHUB_TOKEN: ${{ github.token }}
         with:
               upload_url: ${{ steps.create_release.outputs.upload_url }}
-              asset_path: LetsMakeNametags.pdf
-              asset_name: LetsMakeNametags.pdf
+              asset_path: LetsMakeNametags-${{  github.ref_name }}.pdf
+              asset_name: LetsMakeNametags-${{  github.ref_name }}.pdf
               asset_content_type: application/binary
