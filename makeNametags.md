@@ -132,7 +132,48 @@ See that you have the base of a nametag
 
 ![](image/baseDone.png)
 
+\pagebreak
 
+# 9) Scribble your Name
+
+Click on the Scribble tool and click the top of the nametag to place it
+
+![](image/clickScribble.png)
+
+Use the pencil tool and scribble your name. Click done when you are finished
+
+![](image/scribbleName.png)
+
+Set the height of the name to 3mm
+
+![](image/setNameHeight.png)
+
+Adjust the corners so the name fits entirely on the base. Drag and drop to adjust
+
+![](image/adjustNameSize.png)
+
+Select all and Group
+
+![](image/groupFinal.png)
+
+
+# 10) Export STL file
+
+Click export and select .stl
+
+![](image/export.png)
+
+Navigate to the Lets Print Robots folder, find Nametags and navigate inside it
+
+![](image/folders.png)
+
+Click the downloads Menu, select your .stl and drag it into the folder
+
+![](image/dragInSTL.png)
+
+# 11 All Done!
+
+Your nametag will be printed on the 3d printer in the next batch!
 
 
 
