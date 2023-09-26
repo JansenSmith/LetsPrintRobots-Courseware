@@ -66,4 +66,24 @@ Set the name to Your first name, Your Last name and the word "Nametag"
 
 ![](image/setName.png)
 
+\pagebreak
+
+# 6) Add the Base of the nametag
+
+Add a box to the workplane. Cick on Bok on the right, and click on the blue workplane to place it.
+
+![](image/addBox.png)
+
+Click on the white square in the corner, when you do, the numbers will show up. Click on the number and type the number it should be. 
+
+Set it to 70mm by 30mm
+
+![](image/set-box-size.png)
+
+Set the Height of the nametag base to 3mm
+
+![](image/SetBoxHeight.png)
+
+
+
 
