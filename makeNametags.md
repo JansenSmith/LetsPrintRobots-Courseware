@@ -129,7 +129,7 @@ Move the box after allignment
 
 Select all and click the Group button
 
-![](image/groupBox.png)
+![](image/groupParts.png)
 
 See that you have the base of a nametag
 
