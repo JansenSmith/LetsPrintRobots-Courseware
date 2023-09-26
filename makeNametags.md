@@ -32,6 +32,9 @@ Open the file
 
 Click on the link to join the class
 
+![](image/classCode.png)
+
+
 \pagebreak
 
 # 3) Create your Tinkercad account
