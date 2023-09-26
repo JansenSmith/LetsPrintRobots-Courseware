@@ -84,6 +84,19 @@ Set the Height of the nametag base to 3mm
 
 ![](image/SetBoxHeight.png)
 
+# 7) Add a tab and a hole
+
+Grab one Cylinder and one Cylinder Hole
+
+![](image/cyl-and-hole.png)
+
+Set the Hole dimension to 15mm by 15 mm
+
+![](image/hole-size.png)
+
+Set height of Tab and the hole to 3mm
+
+![](image/tabAndHoleHeight.png)
 
 
 
