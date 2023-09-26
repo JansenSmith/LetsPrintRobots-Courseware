@@ -84,6 +84,8 @@ Set the Height of the nametag base to 3mm
 
 ![](image/SetBoxHeight.png)
 
+\pagebreak
+
 # 7) Add a tab and a hole
 
 Grab one Cylinder and one Cylinder Hole
@@ -97,6 +99,42 @@ Set the Hole dimension to 15mm by 15 mm
 Set height of Tab and the hole to 3mm
 
 ![](image/tabAndHoleHeight.png)
+
+\pagebreak
+
+# 8) Allign the tab and hole
+
+Highlight the tab and hole
+
+![](image/selectTabAndHole.png)
+
+Select the allign tool 
+
+![](image/selectAllignTool.png)
+
+Allign In X
+
+![](image/allignX.png)
+
+Allign In Y
+
+![](image/allignY.png)
+
+Move the box after allignment
+
+![](image/moveBox.png)
+
+Select all and click the Group button
+
+![](image/groupBox.png)
+
+See that you have the base of a nametag
+
+![](image/baseDone.png)
+
+
+
+
 
 
 
