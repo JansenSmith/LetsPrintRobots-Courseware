@@ -19,8 +19,8 @@ jobs:
       - run: echo $PWD
       - run: ls -al ./
       - run: ls -al ../
-      - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=BancroftRobodogsNotebook.pdf README.md
-      - run: ls -al .
+      - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=Overview.pdf README.md
+      - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=LetsMakeNametags.pdf makeNametags.md
       - name: release
         uses: actions/create-release@v1
         id: create_release
@@ -38,6 +38,15 @@ jobs:
               GITHUB_TOKEN: ${{ github.token }}
         with:
               upload_url: ${{ steps.create_release.outputs.upload_url }}
-              asset_path: BancroftRobodogsNotebook.pdf
-              asset_name: BancroftRobodogsNotebook.pdf
+              asset_path: Overview.pdf
+              asset_name: Overview.pdf
+              asset_content_type: application/binary
+      - name: Upload PDF2
+        uses: actions/upload-release-asset@v1
+        env:
+              GITHUB_TOKEN: ${{ github.token }}
+        with:
+              upload_url: ${{ steps.create_release.outputs.upload_url }}
+              asset_path: LetsMakeNametags.pdf
+              asset_name: LetsMakeNametags.pdf
               asset_content_type: application/binary
