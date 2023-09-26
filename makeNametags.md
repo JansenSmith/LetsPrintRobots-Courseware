@@ -16,8 +16,7 @@ Click Sign In
 
 ![](image/drive-sign-in.png)
 
-<div style="page-break-before:always">&nbsp;</div>
-<p></p>
+\pagebreak
 
 # 2) Find the "Class Code Tinkercad" file
 
@@ -33,8 +32,7 @@ Open the file
 
 Click on the link to join the class
 
-<div style="page-break-before:always">&nbsp;</div>
-<p></p>
+\pagebreak
 
 # 3) Create your Tinkercad account
 
@@ -42,8 +40,7 @@ Click on the Google "G"
 
 ![](image/tinker-create-account.png)
 
-<div style="page-break-before:always">&nbsp;</div>
-<p></p>
+\pagebreak
 
 # 4) Create a new Design
 
@@ -57,8 +54,7 @@ Select 3d Design
 
 ![](image/3dDesign.png)
 
-<div style="page-break-before:always">&nbsp;</div>
-<p></p>
+\pagebreak
 
 # 5) Set the name of the file
 
