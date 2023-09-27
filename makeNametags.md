@@ -159,6 +159,7 @@ Select all and Group
 
 ![](image/groupFinal.png)
 
+\pagebreak
 
 # 10) Export STL file
 
@@ -173,6 +174,8 @@ Navigate to the Lets Print Robots folder, find Nametags and navigate inside it
 Click the downloads Menu, select your .stl and drag it into the folder
 
 ![](image/dragInSTL.png)
+
+\pagebreak
 
 # 11 All Done!
 
