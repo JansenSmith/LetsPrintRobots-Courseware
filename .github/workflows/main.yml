@@ -50,5 +50,13 @@ jobs:
               upload_url: ${{ steps.create_release.outputs.upload_url }}
               asset_path: LetsMakeNametags-${{  github.ref_name }}.pdf
               asset_name: LetsMakeNametags-${{  github.ref_name }}.pdf
+              asset_content_type: application/binary
+      - name: Upload PDF3
+        uses: actions/upload-release-asset@v1
+        env:
+              GITHUB_TOKEN: ${{ github.token }}
+        with:
+              upload_url: ${{ steps.create_release.outputs.upload_url }}
+              asset_path: DancingGhost-${{  github.ref_name }}.pdf
               asset_name: DancingGhost-${{  github.ref_name }}.pdf
               asset_content_type: application/binary
