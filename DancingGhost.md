@@ -2,5 +2,190 @@
 
 For our final project in Lets Print Robots we will make a dancing ghost robot. 
 
+# Step 1
+
+Make a box 20 x 40 x 14
+
+![](dancingGhostImage/01.png)
+
+put a small hole in the coner of the block. This will be  used for allignment later. 
+
+![](dancingGhostImage/02.png)
+![](dancingGhostImage/03.png)
+
+# Step 2
+
+Add the servo vitamin
+
+![](dancingGhostImage/04.png)
+
+Make sure the servo is sticking out 5mm on the side where the servo horn will stick out. 
+
+![](dancingGhostImage/05.png)
+
+# Step 3
+
+Make the bolts with heat set inserts into holes, make 4 copies
+
+![](dancingGhostImage/06.png)
+
+Cut the holes out of the bottom bracket. 
+
+![](dancingGhostImage/07.png)
+
+# Step 4
+
+Make a cover plate for the servo
+
+![](dancingGhostImage/08.png)
+
+Use the bottom of the bracket to allign the 2 remaining bolt-insert assemblies
+
+![](dancingGhostImage/09.png)
+
+Group the 2 alligned bolts to the cover plate
+
+![](dancingGhostImage/10.png)
+
+Add your name to the cover plate and to the bracket
+
+![](dancingGhostImage/11.png)
+
+Move the cover plate away from the bracket and place it on the print surface
+
+![](dancingGhostImage/12.png)
+
+Make 3 copies of the cover plate
+
+![](dancingGhostImage/13.png)
+
+# Step 5
+
+Copy and paste the servo block and rotate it 120 degrees
+
+![](dancingGhostImage/14.png)
+
+use the corner pin to visually allign the 2 servo blocks
+
+![](dancingGhostImage/15.png)
+
+Copy and paste the servo block, this time rotate -120 degrees
+
+![](dancingGhostImage/16.png)
+
+use the allignment hole to visually allign the third block
+
+![](dancingGhostImage/17.png)
+
+Make a 10 x 10 x 14mm cylinder 
+
+![](dancingGhostImage/18.png)
+
+Move it to the middle of the 3 blocks
+
+![](dancingGhostImage/19.png)
+
+Group the 3 blocks and support cylinder
+
+![](dancingGhostImage/20.png)
+
+# Step 6
+
+Use the Spring vitamin to cut a small divit in the center of the servo blocks
+
+![](dancingGhostImage/22.png)
+
+Load the horn vitamin and make it a hole
+
+![](dancingGhostImage/23.png)
+
+Make the block 2mm bigger than the horn in  x and y, and exactly the same height. Allign on centers with the horn
+
+![](dancingGhostImage/24.png)
+
+# Step 7
+
+Bring in the ball chain vitamin and make it a hole
+
+![](dancingGhostImage/25.png)
+
+Make a cylinder that is 5.5x5.5x the height of the horn block
+
+![](dancingGhostImage/26.png)
+
+Move the ball chain into place so it cuts a recess for the balls on either side of the support cylender
+
+![](dancingGhostImage/27.png)
+
+Make a small cube hole to cut out the path for the cord to travil through during assembly
+
+![](dancingGhostImage/28.png)
+
+![](dancingGhostImage/29.png)
+
+![](dancingGhostImage/30.png)
+
+# Step 8
+
+Duplicate the ball chain connection for use on the end effector
+
+![](dancingGhostImage/31.png)
+
+This is a model of a Pancil. Make it a hole. 
+
+![](dancingGhostImage/32.png)
+
+Bring in a half-sphere zided 20x20x10
+
+Allign the pencil and the hemisphere
+
+![](dancingGhostImage/33.png)
+
+Drop the spring down so it is just 1 mm above the grid
+
+![](dancingGhostImage/34.png)
+
+Select the pencil, the spring and the hemisphere and using the allign tool, allign all 3 to the center in X and Y
+
+![](dancingGhostImage/35.png)
+
+# Step 9
+
+Group the ball chain and the block from step 7 and angle it to 45 degrees
+
+raise it up so it is aligned to the hemisphere as shown
+
+![](dancingGhostImage/36.png)
+
+Make 3 coppies after tilting the ballchain
+
+![](dancingGhostImage/37.png)
+
+Rotate the 2 copies to 120 and -120 respectivly
+
+use the points of the hexagon to allign them to to the end effector
+
+![](dancingGhostImage/38.png)
+
+use the ring shape with a tube of 2.75 and 20 x 20 size
+
+![](dancingGhostImage/39.png)
+
+raise the ring up 6 mm
 
 
+![](dancingGhostImage/40.png)
+
+Allign the ring to the middle of the end effector
+
+![](dancingGhostImage/41.png)
+
+Group the end effector together to finish it. 
+
+![](dancingGhostImage/42.png)
+
+# Step 10
+
+Arrange the print bed so all the items are within a 120 x 90 mm footprint
+
+![](dancingGhostImage/43.png)
