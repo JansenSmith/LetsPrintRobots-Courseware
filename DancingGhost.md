@@ -13,6 +13,8 @@ put a small hole in the coner of the block. This will be  used for allignment la
 ![](dancingGhostImage/02.png)
 ![](dancingGhostImage/03.png)
 
+\pagebreak
+
 # Step 2
 
 Add the servo vitamin
@@ -23,6 +25,8 @@ Make sure the servo is sticking out 5mm on the side where the servo horn will st
 
 ![](dancingGhostImage/05.png)
 
+\pagebreak
+
 # Step 3
 
 Make the bolts with heat set inserts into holes, make 4 copies
@@ -32,6 +36,8 @@ Make the bolts with heat set inserts into holes, make 4 copies
 Cut the holes out of the bottom bracket. 
 
 ![](dancingGhostImage/07.png)
+
+\pagebreak
 
 # Step 4
 
@@ -58,6 +64,8 @@ Move the cover plate away from the bracket and place it on the print surface
 Make 3 copies of the cover plate
 
 ![](dancingGhostImage/13.png)
+
+\pagebreak
 
 # Step 5
 
@@ -89,6 +97,8 @@ Group the 3 blocks and support cylinder
 
 ![](dancingGhostImage/20.png)
 
+\pagebreak
+
 # Step 6
 
 Use the Spring vitamin to cut a small divit in the center of the servo blocks
@@ -102,6 +112,8 @@ Load the horn vitamin and make it a hole
 Make the block 2mm bigger than the horn in  x and y, and exactly the same height. Allign on centers with the horn
 
 ![](dancingGhostImage/24.png)
+
+\pagebreak
 
 # Step 7
 
@@ -124,6 +136,8 @@ Make a small cube hole to cut out the path for the cord to travil through during
 ![](dancingGhostImage/29.png)
 
 ![](dancingGhostImage/30.png)
+
+\pagebreak
 
 # Step 8
 
@@ -148,6 +162,8 @@ Drop the spring down so it is just 1 mm above the grid
 Select the pencil, the spring and the hemisphere and using the allign tool, allign all 3 to the center in X and Y
 
 ![](dancingGhostImage/35.png)
+
+\pagebreak
 
 # Step 9
 
@@ -183,6 +199,8 @@ Allign the ring to the middle of the end effector
 Group the end effector together to finish it. 
 
 ![](dancingGhostImage/42.png)
+
+\pagebreak
 
 # Step 10
 
