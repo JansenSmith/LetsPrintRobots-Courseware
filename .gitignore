@@ -4,3 +4,9 @@ BancroftRobodogsNotebook.pdf
 .project
 *~
 *.kra
+/.settings
+/.project
+/.classpath
+/.cproject
+/cache/
+/*.class
