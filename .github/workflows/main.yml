@@ -21,6 +21,7 @@ jobs:
       - run: ls -al ../
       - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=Overview-${{  github.ref_name }}.pdf README.md
       - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=LetsMakeNametags-${{  github.ref_name }}.pdf makeNametags.md
+      - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=DancingGhost-${{  github.ref_name }}.pdf DancingGhost.md
       - name: release
         uses: actions/create-release@v1
         id: create_release
@@ -49,4 +50,5 @@ jobs:
               upload_url: ${{ steps.create_release.outputs.upload_url }}
               asset_path: LetsMakeNametags-${{  github.ref_name }}.pdf
               asset_name: LetsMakeNametags-${{  github.ref_name }}.pdf
+              asset_name: DancingGhost-${{  github.ref_name }}.pdf
               asset_content_type: application/binary
