@@ -43,6 +43,8 @@ Cut the holes out of the bottom bracket.
 
 Make a cover plate for the servo
 
+it should be 2mm thick
+
 ![](dancingGhostImage/08.png)
 
 Use the bottom of the bracket to allign the 2 remaining bolt-insert assemblies
@@ -130,6 +132,8 @@ Move the ball chain into place so it cuts a recess for the balls on either side 
 ![](dancingGhostImage/27.png)
 
 Make a small cube hole to cut out the path for the cord to travil through during assembly
+
+the cube should be 7 x 4.7 x 2 mm
 
 ![](dancingGhostImage/28.png)
 
