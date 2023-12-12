@@ -2,16 +2,26 @@
 
 For our final project in Lets Print Robots we will make a dancing ghost robot. 
 
+![](dancingGhostImage/0-FinishedGhost.jpg)
+
+![](dancingGhostImage/0-FinishedMech.jpg)
+
+\pagebreak
+
 # Step 1
 
 Make a box 20 x 40 x 14
 
-![](dancingGhostImage/01.png)
+![](dancingGhostImage/1-Screenshot from 2023-12-12 13-39-11.png)
 
 put a small hole in the coner of the block. This will be  used for allignment later. 
 
-![](dancingGhostImage/02.png)
-![](dancingGhostImage/03.png)
+![](dancingGhostImage/1-Screenshot from 2023-12-12 13-39-32.png)
+
+Group the hole to the block
+
+![](dancingGhostImage/1-Screenshot from 2023-12-12 13-44-05.png)
+
 
 \pagebreak
 
@@ -19,29 +29,73 @@ put a small hole in the coner of the block. This will be  used for allignment la
 
 Add the servo vitamin
 
-![](dancingGhostImage/04.png)
+![](dancingGhostImage/2-Screenshot from 2023-12-12 13-40-46.png)
 
-Make sure the servo is sticking out 5mm on the side where the servo horn will stick out. 
+Make it a hole
 
-![](dancingGhostImage/05.png)
+![](dancingGhostImage/2-Screenshot from 2023-12-12 13-41-19.png)
+
+Rotate the servo so the cord is pointing towards the calibration pin and the top of the servo is on the same side of the block as the calibraation pin.
+
+Use the allign toop to allign the top of the servo to the top of the block
+
+![](dancingGhostImage/2-Screenshot from 2023-12-12 13-42-45.png)
+
+Select both the block and the servo and move it down to the bed
+
+![](dancingGhostImage/2-Screenshot from 2023-12-12 13-43-11.png)
+
+Use the allign tool to allign the top of the servo to the side with the calibration pin. Allign the right side of the servo to the right side of the block. 
+
+![](dancingGhostImage/2-Screenshot from 2023-12-12 13-44-47.png)
+
+Select just the servo. Set the snap grid to 1mm and move 5mm up. Set the snap grid to 0.5mm and move 1.5mm to the left.
+
+![](dancingGhostImage/2-Screenshot from 2023-12-12 13-45-25.png)
+
 
 \pagebreak
 
 # Step 3
 
-Make the bolts with heat set inserts into holes, make 4 copies
+Import the Bolt and the heat set insert vitamin 
 
-![](dancingGhostImage/06.png)
+![](dancingGhostImage/3-Screenshot from 2023-12-12 14-00-23.png)
 
-Cut the holes out of the bottom bracket. 
+Reorent the bolt
 
-![](dancingGhostImage/07.png)
+![](dancingGhostImage/3-Screenshot from 2023-12-12 14-00-38.png)
+
+Allign the bolt and insert on center, then group them, then make them a hole
+
+![](dancingGhostImage/3-Screenshot from 2023-12-12 14-01-06.png)
+
+Make two copies
+
+
+![](dancingGhostImage/3-Screenshot from 2023-12-12 14-02-00.png)
+
+Allign them on top of each other
+
+![](dancingGhostImage/3-Screenshot from 2023-12-12 14-02-14.png)
+
+Use the arrow keys to move the bolts 28.5mm apart and then group them together
+
+![](dancingGhostImage/3-Screenshot from 2023-12-12 14-03-52.png)
+
+Make a second copy of the screws.
+
+![](dancingGhostImage/3-Screenshot from 2023-12-12 14-07-08.png)
+
+Move screws into place on either side of the servo
+
+![](dancingGhostImage/3-Screenshot from 2023-12-12 14-08-11.png)
 
 \pagebreak
 
 # Step 4
 
-Make a cover plate for the servo
+Make a cover plate for the servo 35mm by 20mm by 2mm
 
 it should be 2mm thick
 
