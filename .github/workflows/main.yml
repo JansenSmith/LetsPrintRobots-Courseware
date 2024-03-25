@@ -19,6 +19,9 @@ jobs:
       - run: echo $PWD
       - run: ls -al ./
       - run: ls -al ../
+      - run: sed -i 's/VERSIONNUMBER/${{  github.ref_name }}/g' ScratchWorksheets/SaveAndLoad.tex
+      - run: pdflatex -jobname=SaveAndLoad-${{  github.ref_name }} ScratchWorksheets/SaveAndLoad.tex
+      - run: ls -al .
       - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=Overview-${{  github.ref_name }}.pdf README.md
       - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=LetsMakeNametags-${{  github.ref_name }}.pdf makeNametags.md
       - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=DancingGhost-${{  github.ref_name }}.pdf DancingGhost.md
@@ -41,6 +44,15 @@ jobs:
               upload_url: ${{ steps.create_release.outputs.upload_url }}
               asset_path: Overview-${{  github.ref_name }}.pdf
               asset_name: Overview-${{  github.ref_name }}.pdf
+              asset_content_type: application/binary
+      - name: Upload Scratch Save
+        uses: actions/upload-release-asset@v1
+        env:
+              GITHUB_TOKEN: ${{ github.token }}
+        with:
+              upload_url: ${{ steps.create_release.outputs.upload_url }}
+              asset_path: SaveAndLoad-${{  github.ref_name }}.pdf
+              asset_name: SaveAndLoad-${{  github.ref_name }}.pdf
               asset_content_type: application/binary
       - name: Upload PDF2
         uses: actions/upload-release-asset@v1
