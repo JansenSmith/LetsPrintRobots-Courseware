@@ -21,6 +21,7 @@ jobs:
       - run: cd ScratchWorksheets/
       - run: sed -i 's/VERSIONNUMBER/${{  github.ref_name }}/g' SaveAndLoad.tex
       - run: pdflatex -jobname=SaveAndLoad-${{  github.ref_name }} SaveAndLoad.tex
+      - run: cd ..
       - run: ls -al .
       - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=Overview-${{  github.ref_name }}.pdf README.md
       - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=LetsMakeNametags-${{  github.ref_name }}.pdf makeNametags.md
