@@ -73,7 +73,7 @@ Set the name to Your first name, Your Last name and the word "Nametag"
 
 # 6) Add the Base of the nametag
 
-Add a box to the workplane. Cick on Bok on the right, and click on the blue workplane to place it.
+Add a box to the workplane. Cick on Box on the right, and click on the blue workplane to place it.
 
 ![](image/addBox.png)
 
