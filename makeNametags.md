@@ -73,7 +73,7 @@ Set the name to Your first name, Your Last name and the word "Nametag"
 
 # 6) Add the Base of the nametag
 
-Add a box to the workplane. Cick on Bok on the right, and click on the blue workplane to place it.
+Add a box to the workplane. Cick on Box on the right, and click on the blue workplane to place it.
 
 ![](image/addBox.png)
 
@@ -105,25 +105,25 @@ Set height of Tab and the hole to 3mm
 
 \pagebreak
 
-# 8) Allign the tab and hole
+# 8) Align the tab and hole
 
 Highlight the tab and hole
 
 ![](image/selectTabAndHole.png)
 
-Select the allign tool 
+Select the align tool 
 
 ![](image/selectAllignTool.png)
 
-Allign In X
+Align In X
 
 ![](image/allignX.png)
 
-Allign In Y
+Align In Y
 
 ![](image/allignY.png)
 
-Move the box after allignment
+Move the box after alignment
 
 ![](image/moveBox.png)
 
